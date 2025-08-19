@@ -18,9 +18,11 @@ Users can input details such as RAM, storage, screen size, battery capacity, bra
 ⚡ Lightweight Flask backend
 
 
+
 📌 Example Prediction
 
 12GB RAM | 512GB Storage | 6–6.5″ Screen | 4500mAh Battery | Samsung | Exynos → ₹68,953.34
+
 
 
 📂 Project Files
@@ -42,6 +44,7 @@ templates/ → HTML templates for UI
 .vscode/ → Project settings
 
 
+
 🛠️ Tech Stack
 
 Programming: Python
@@ -53,6 +56,7 @@ Machine Learning: Scikit-learn, Pandas, NumPy
 Frontend: HTML, CSS, JavaScript
 
 Visualization & EDA: Matplotlib, Seaborn, Jupyter Notebook
+
 
 
 📌 Usage
@@ -76,6 +80,7 @@ python app.py
 Open in browser:
 
 http://127.0.0.1:5000/
+
 
 
 👨‍💻 Author
