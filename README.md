@@ -1,28 +1,25 @@
 📱 Mobile Price Prediction
 
-Mobile Price Prediction is a Machine Learning Web Application that predicts smartphone prices based on their specifications.
+Mobile Price Prediction is an AI-powered Web Application that predicts smartphone prices based on their specifications.
 
-Users can input details such as RAM, storage, battery capacity, brand, and processor type, and the system will provide an estimated price.
+Users can input details such as RAM, storage, screen size, battery capacity, brand, and processor type, and the system will instantly provide an estimated price range.
 
-This project combines Machine Learning (for prediction) with a Flask backend and a modern web frontend to deliver an interactive and user-friendly experience.
 
 🚀 Features
 
-🔮 Predict smartphone price based on user input
+🔮 Predict smartphone prices from user input
 
-📊 Trained ML model with real-world mobile dataset
+🧾 Inputs considered: RAM, Storage, Screen Size, Battery, Brand, Processor
 
-🖥️ Web interface for easy interaction
+🖥️ Easy web interface
 
-🎨 Sleek and modern UI (HTML, CSS, JavaScript)
+🎨 Modern UI (HTML, CSS, JavaScript)
 
-⚡ Fast and lightweight Flask backend
+⚡ Lightweight Flask backend
 
-📌 Example Predictions
+📌 Example Prediction
 
-8GB RAM | 128GB Storage | 5000mAh Battery | Snapdragon Processor → ₹27,500
-
-4GB RAM | 64GB Storage | 4000mAh Battery | MediaTek Processor → ₹11,200
+12GB RAM | 512GB Storage | 6–6.5″ Screen | 4500mAh Battery | Samsung | Exynos → ₹68,953.34
 
 📂 Project Files
 
