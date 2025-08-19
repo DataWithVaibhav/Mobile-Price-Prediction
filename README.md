@@ -19,12 +19,6 @@ Users can input details such as RAM, storage, screen size, battery capacity, bra
 
 
 
-📌 Example Prediction
-
-12GB RAM | 512GB Storage | 6–6.5″ Screen | 4500mAh Battery | Samsung | Exynos → ₹68,953.34
-
-
-
 📂 Project Files
 
 app.py → Flask backend application
@@ -59,12 +53,19 @@ Visualization & EDA: Matplotlib, Seaborn, Jupyter Notebook
 
 
 
-📌 Usage
+⚡ Usage
 
-Clone this repository:
+Clone the repository:
 
-git clone https://github.com/<your-username>/Mobile-Price-Prediction.git
+git clone https://github.com/DataWithVaibhav/Mobile-Price-Prediction.git
 cd Mobile-Price-Prediction
+
+
+Create and activate a virtual environment:
+
+python -m venv .venv
+.venv\Scripts\activate   # On Windows
+source .venv/bin/activate # On Mac/Linux
 
 
 Install dependencies:
@@ -72,14 +73,20 @@ Install dependencies:
 pip install -r requirements.txt
 
 
-Run the Flask app:
+Run the application:
 
 python app.py
 
 
-Open in browser:
+Open your browser and go to:
 
 http://127.0.0.1:5000/
+
+
+📌 Example Prediction
+
+12GB RAM | 512GB Storage | 6–6.5″ Screen | 4500mAh Battery | Samsung | Exynos → ₹68,953.34
+
 
 
 
